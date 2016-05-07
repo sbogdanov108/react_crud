@@ -1,0 +1,16 @@
+form a {
+  margin-left: 5px;
+}
+
+.container {
+  margin-top : 30px;
+}
+
+.page-title {
+  margin-bottom : 30px;
+  text-align    : center;
+}
+
+.btn-addPost {
+  margin-bottom: 10px;
+}
